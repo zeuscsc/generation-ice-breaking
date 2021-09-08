@@ -5,3 +5,4 @@ function foo(){
     return 0;
 }
 ~~~
+Added Testing Function
