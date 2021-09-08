@@ -32,4 +32,5 @@ cat id_rsa.pub
 <h6>Click Add SSH key.</h6>
 <img src="imgs/ssh-add-key.png">
 <br>
+
 [Git Docs on Add a new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
