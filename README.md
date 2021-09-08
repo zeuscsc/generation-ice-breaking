@@ -1,6 +1,7 @@
 # generation-ice-breaking
 
-~~~
-def foo():
-    return 0
+~~~javascript
+function foo(){
+    return 0;
+}
 ~~~
